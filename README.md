@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Interstella55
-- 👀 I’m interested to learnin and work with Python
+- 👀 I’m interested in learn Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything. I want to learn as much as possible. 
 - 📫 Fell free to send me 
