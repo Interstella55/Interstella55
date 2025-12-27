@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @Interstella55
-- 👀 I’m interested to learn Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything. I want to learn as much as possible. I've been studying Python on CodeAcademy. So far, i am loving it. 
-- 📫 Fell free to send me a message!
-- ⚡ Fun fact: I love playing games and loving to learn Python. I'm having some issues to learn about loops but overall everything is going on the right path! 
+Hi 👋 I’m Sergio Oliveira  
+
+I’m a Data Analyst with a strong interest in transforming data into actionable insights.
+
+🔧 Skills & Tools  
+- Power BI (DAX, drillthrough, data modeling)  
+- SQL (data analysis, joins, aggregations)  
+- Python (data analysis fundamentals)
+
+📊 Featured Projects  
+- HR Attrition Analysis (Power BI, SQL)  
+- Sales Performance Dashboard
+
+🌱 Currently learning  
+- Advanced DAX  
+- Python for data analysis
+
 
 <!---
 Interstella55/Interstella55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
