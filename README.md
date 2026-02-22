@@ -6,6 +6,7 @@ I’m a Data Analyst with a strong interest in transforming data into actionable
 - Power BI (DAX, drillthrough, data modeling)  
 - SQL (data analysis, joins, aggregations)  
 - Python (data analysis fundamentals)
+- Advanced Excel
 
 📊 Featured Projects  
 - HR Attrition Analysis (Power BI, SQL)  
