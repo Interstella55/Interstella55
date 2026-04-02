@@ -13,9 +13,6 @@ I’m a Data Analyst with a strong interest in transforming data into actionable
 - HR Attrition Analysis (Power BI, SQL)  
 - Sales Performance Dashboard
 
-🌱 Currently learning  
-- Advanced DAX  
-- Python for data analysis
 
 
 <!---
