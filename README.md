@@ -5,8 +5,9 @@ I’m a Data Analyst with a strong interest in transforming data into actionable
 🔧 Skills & Tools  
 - Power BI (DAX, drillthrough, data modeling)  
 - SQL (data analysis, joins, aggregations)  
-- Python (data analysis fundamentals)
+- Python (data analysis fundamentals, Machine learning)
 - Advanced Excel
+- AI/LLM/GenAI enthusiast
 
 📊 Featured Projects  
 - HR Attrition Analysis (Power BI, SQL)  
