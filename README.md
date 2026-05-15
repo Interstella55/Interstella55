@@ -11,7 +11,7 @@ I’m a Data Analyst with a strong interest in transforming data into actionable
 
 📊 Featured Projects  
 - HR Attrition Analysis (Power BI, SQL)  
-- Sales Performance Dashboard
+- Intern Retention Analysis (Python)
 - Sales Performance Forecast (Excel)
 
 
