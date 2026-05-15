@@ -10,9 +10,9 @@ I’m a Data Analyst with a strong interest in transforming data into actionable
 - AI/LLM/GenAI enthusiast
 
 📊 Featured Projects  
-- HR Attrition Analysis (Power BI, SQL)  
-- Intern Retention Analysis (Python)
-- Sales Performance Forecast (Excel)
+- HR Attrition Analysis (Power BI, SQL)  https://github.com/Interstella55/hr-attrition-analysis
+- Intern Retention Analysis (Python) https://github.com/Interstella55/intern-retention-project
+- Sales Performance Forecast (Excel) https://github.com/Interstella55/sales-performance-forecast-excel
 
 
 
